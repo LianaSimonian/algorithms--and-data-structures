@@ -1,0 +1,15 @@
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.exe
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.deps.json
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.runtimeconfig.json
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.dll
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.pdb
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfoInputs.cache
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfo.cs
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.sourcelink.json
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.dll
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\refint\BubbleSort.dll
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.pdb
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.genruntimeconfig.cache
+D:\Users\user\source\repos\Repository 2\Sorting\BubbleSort\BubbleSort\obj\Debug\net8.0\ref\BubbleSort.dll
