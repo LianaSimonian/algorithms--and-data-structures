@@ -47,6 +47,7 @@ namespace BubbleSort
 
             Console.WriteLine("Sorted array");
             PrintArray(arr);
+
         }
     }
 }

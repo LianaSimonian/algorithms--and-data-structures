@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\user\\source\\repos\\Repository 2\\Sorting\\BubbleSort\\BubbleSort\\BubbleSort.csproj": {}
+    "D:\\Users\\user\\source\\repos\\algorithms--and-data-structures\\Sorting\\BubbleSort\\BubbleSort\\BubbleSort.csproj": {}
   },
   "projects": {
-    "D:\\Users\\user\\source\\repos\\Repository 2\\Sorting\\BubbleSort\\BubbleSort\\BubbleSort.csproj": {
+    "D:\\Users\\user\\source\\repos\\algorithms--and-data-structures\\Sorting\\BubbleSort\\BubbleSort\\BubbleSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\user\\source\\repos\\Repository 2\\Sorting\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
+        "projectUniqueName": "D:\\Users\\user\\source\\repos\\algorithms--and-data-structures\\Sorting\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
         "projectName": "BubbleSort",
-        "projectPath": "D:\\Users\\user\\source\\repos\\Repository 2\\Sorting\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
+        "projectPath": "D:\\Users\\user\\source\\repos\\algorithms--and-data-structures\\Sorting\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\user\\source\\repos\\Repository 2\\Sorting\\BubbleSort\\BubbleSort\\obj\\",
+        "outputPath": "D:\\Users\\user\\source\\repos\\algorithms--and-data-structures\\Sorting\\BubbleSort\\BubbleSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\Repository 2\\Sorting\\BubbleSort\\",
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\algorithms--and-data-structures\\Sorting\\BubbleSort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A5D47C9-8948-46BB-8809-24BDA859CAA2}|BubbleSort\\BubbleSort.csproj|d:\\users\\user\\source\\repos\\repository 2\\sorting\\bubblesort\\bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A5D47C9-8948-46BB-8809-24BDA859CAA2}|BubbleSort\\BubbleSort.csproj|d:\\users\\user\\source\\repos\\algorithms--and-data-structures\\sorting\\bubblesort\\bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A5D47C9-8948-46BB-8809-24BDA859CAA2}|BubbleSort\\BubbleSort.csproj|solutionrelative:bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\Repository 2\\Sorting\\BubbleSort\\BubbleSort\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\algorithms--and-data-structures\\Sorting\\BubbleSort\\BubbleSort\\Program.cs",
               "RelativeDocumentMoniker": "BubbleSort\\Program.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\Repository 2\\Sorting\\BubbleSort\\BubbleSort\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\algorithms--and-data-structures\\Sorting\\BubbleSort\\BubbleSort\\Program.cs",
               "RelativeToolTip": "BubbleSort\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T17:02:51.328Z",
               "EditorCaption": ""
