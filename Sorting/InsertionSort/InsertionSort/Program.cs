@@ -5,41 +5,37 @@ class Program
     static void InsertionSort(int[] arr)
     {
         int n = arr.Length;
+
         for (int i = 1; i < n; i++)
         {
             int key = arr[i];
             int j = i - 1;
 
-            // Move elements of arr[0..i-1], that are greater than key,
-            // one position ahead of their current position
-            while (j >= 0 && arr[j] > key)
+            while (j >= 0 && key < arr[j])
             {
                 arr[j + 1] = arr[j];
-                j = j - 1;
+                //arr[j] = key;
+                j--;
             }
             arr[j + 1] = key;
+
         }
     }
-
-    static void PrintArray(int[] arr)
+    static void printArray(int[] arr)
     {
-        foreach (int item in arr)
-        {
-            Console.Write(item + " ");
-        }
+        foreach (int num  in arr)
+            Console.Write(num +" ");
         Console.WriteLine();
     }
 
-    static void Main()
+    static void Main(string[] args)
     {
-        int[] arr = { 12, 11, 13, 5, 6 };
-        Console.WriteLine("Original array:");
-        PrintArray(arr);
+        int[] arr = { 1, 12, 4, 7, 45 };
 
+        Console.WriteLine("Original array: ");
+        printArray(arr);
+        Console.WriteLine("Sorted array: ");
         InsertionSort(arr);
-
-        Console.WriteLine("Sorted array:");
-        PrintArray(arr);
+        printArray(arr);
     }
-}
-
+    }
